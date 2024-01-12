@@ -111,7 +111,9 @@ Select, Image, etc.) avec l'opérateur delete
 
 /*------------------------------------------------------------------------------------------------------------------*/
 
-class ModeliXe extends ErrorManager{
+namespace eXtensia\dataBaseAbstractLayer;
+
+class ModeliXe extends \eXtensia\errorManager\errorManager{
 
 	var $template = '';
 	var $absolutePath = '';
