@@ -1,0 +1,17 @@
+{
+    "name": "extensia/modelixe",
+    "description": "A template engine.",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Thierry ANDRE",
+            "email": "theo.et.sandrine@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.0",
+        "eXtensia/errorManager": "1.*"
+    }
+}
