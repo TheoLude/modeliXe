@@ -1,5 +1,6 @@
 {
     "name": "extensia/modelixe",
+    "version": "1.0.0",
     "description": "A template engine.",
     "type": "package",
     "authors": [
@@ -13,5 +14,10 @@
     "require": {
         "php": ">=5.0",
         "extensia/errormanager": "1.*"
-    }
+    },
+	"autoload": {
+		"psr-4": {
+			"eXtensia\\modeliXe\\": "src"
+		}
+	}
 }
