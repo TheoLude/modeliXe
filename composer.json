@@ -16,7 +16,7 @@
     },
 	"autoload": {
 		"psr-4": {
-			"eXtensia\\modeliXe\\": "extensia/modelice/src/"
+			"eXtensia\\modeliXe\\": "src/"
 		}
 	}
 }
