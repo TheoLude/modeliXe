@@ -1,6 +1,5 @@
 {
     "name": "extensia/modelixe",
-    "version": "1.0.0",
     "description": "A template engine.",
     "type": "package",
     "authors": [
