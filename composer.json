@@ -12,6 +12,6 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.0",
-        "eXtensia/errorManager": "1.*"
+        "extensia/errormanager": "1.*"
     }
 }
